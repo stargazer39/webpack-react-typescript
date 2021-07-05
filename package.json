@@ -1,0 +1,25 @@
+{
+  "name": "webpack-react-template",
+  "version": "1.0.0",
+  "description": "Stargazer's webpack-react-template",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Stargazer",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/react": "^17.0.13",
+    "@types/react-dom": "^17.0.8",
+    "webpack": "^5.42.1",
+    "webpack-cli": "^4.7.2"
+  },
+  "dependencies": {
+    "copy-webpack-plugin": "^9.0.1",
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2",
+    "ts-loader": "^9.2.3",
+    "typescript": "^4.3.5",
+    "webpack-copy-plugin": "0.0.4"
+  }
+}
